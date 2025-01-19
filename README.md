@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm a 16-year-old passionate learner and coder, di
 
 ### Tools
 - **NumPy** 📊 (For numerical computing and data manipulation)
-- **Jupyter Notebook** 📒 (For writing and running Python code interactively)
+- **Jupyter Notebook** 📒 (For writing and running Python code for my ML-Projects)
 - **Git & GitHub** 🛠️ (For version control and collaboration)
 - **PyCharm** (For Python development)
 
