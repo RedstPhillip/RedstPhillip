@@ -33,6 +33,6 @@ Welcome to my GitHub profile! I'm a 16-year-old passionate learner and coder, di
 - **[ML-Algorithms](https://github.com/RedstPhillip/ML-Algorithms)**:
 A collection of machine learning algorithms implemented from scratch using only **NumPy** to more deeply understand ML.
   
-- **🚧[Untis](https://github.com/RedstPhillip/Untis)🚧**:
+- **[Untis](https://github.com/RedstPhillip/Untis)🚧**:
 A school management system built in Python. The system includes features for administrators, teachers, students, and parents to manage classes, teachers, students, send announcements, and view statistics. However, please note that the grade prediction feature, which is planned to use a linear regression model, is currently not implemented. Some other functions are also incomplete, and the project is currently paused.
 
