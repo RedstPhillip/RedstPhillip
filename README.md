@@ -1,26 +1,19 @@
-# Hi there! 👋
+## About Me
 
-I'm a 16-year-old passionate about **Data Science** and **Machine Learning**.
-
----
-
-## 🚀 About Me
-
-- **HTL student** learning **SQL** and **Java**.
-- Exploring **Python** and **Machine Learning**.
-- Enthusiastic about **Data Science** and constantly improving.
+- 17-year-old **HTL student** from Austria, focusing on **Software Development** and **Machine Learning**  
+- Learning **Java** and **SQL** at school  
+- Exploring **Python**, **AI**, and backend development through personal projects  
+- Worked with **PHP**, **JavaScript**, **React**, and **Rust** during internships and side projects
 
 ---
 
-## 🔧 Skills
+## Projects
 
-- **Python**, **Java**, **SQL**  
-- **NumPy**, **Git**, **PyCharm**
-
----
-
-## 🌟 Projects
-
-- **[ML-Algorithms](https://github.com/RedstPhillip/ML-Algorithms)**: A collection of machine learning algorithms built from scratch using **NumPy**. The goal is to deepen my understanding of key concepts in ML by implementing them without relying on pre-built libraries.
+- **[ML-Algorithms](https://github.com/RedstPhillip/ML-Algorithms)** — Machine learning algorithms built from scratch with **NumPy**  
+- **[Rhythmix](https://github.com/RaphiMuehlbacher/rhythmix)** — Collaborated on a full-stack music streaming platform  
+  - **Raspberry Pi backend** & file serving  
+  - **Search** and **artist system**  
+  - Currently developing **ML-based recommendations**  
+- **Other Projects** — Experiments with **AI**, **n8n automations**, and learning **interpreter design**
 
 ---
